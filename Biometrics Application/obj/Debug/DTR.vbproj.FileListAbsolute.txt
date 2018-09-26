@@ -1,0 +1,46 @@
+D:\DTR\bin\Debug\EnrollmentSample VB.exe.config
+D:\DTR\obj\Debug\EnrollmentSample VB.exe
+D:\DTR\obj\Debug\EnrollmentSample VB.xml
+D:\DTR\obj\Debug\EnrollmentSample VB.pdb
+D:\DTR\bin\Debug\EnrollmentSample VB.exe
+D:\DTR\bin\Debug\EnrollmentSample VB.pdb
+D:\DTR\bin\Debug\EnrollmentSample VB.xml
+D:\DTR\obj\Debug\DTR.vbprojResolveAssemblyReference.cache
+D:\DTR\obj\Debug\Enrollment.AccessArea.resources
+D:\DTR\obj\Debug\Enrollment.CaptureForm.resources
+D:\DTR\obj\Debug\Enrollment.LoginForm.resources
+D:\DTR\obj\Debug\Enrollment.MainPanel.resources
+D:\DTR\obj\Debug\Enrollment.MenuForm.resources
+D:\DTR\obj\Debug\Enrollment.Resources.resources
+D:\DTR\obj\Debug\Enrollment.RegisterForm.resources
+D:\DTR\obj\Debug\DTR.vbproj.GenerateResource.Cache
+D:\DTR\obj\Debug\Enrollment.VerificationForm.resources
+D:\DTR\obj\Debug\Enrollment.EnrollmentForm.resources
+D:\DTR\obj\Debug\Enrollment.DBConfig.resources
+D:\DTR\bin\Debug\EnrollmentSample VB.exe.manifest
+D:\DTR\bin\Debug\EnrollmentSample VB.application
+D:\DTR\obj\Debug\EnrollmentSample VB.exe.manifest
+D:\DTR\obj\Debug\EnrollmentSample VB.application
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\DTR.vbprojResolveAssemblyReference.cache
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\DTR.vbproj.GenerateResource.Cache
+E:\_WORK\BIOMETRICS SYSTEM\DTR\bin\Debug\BAS.exe.config
+E:\_WORK\BIOMETRICS SYSTEM\DTR\bin\Debug\BAS.exe.manifest
+E:\_WORK\BIOMETRICS SYSTEM\DTR\bin\Debug\BAS.application
+E:\_WORK\BIOMETRICS SYSTEM\DTR\bin\Debug\BAS.exe
+E:\_WORK\BIOMETRICS SYSTEM\DTR\bin\Debug\BAS.pdb
+E:\_WORK\BIOMETRICS SYSTEM\DTR\bin\Debug\BAS.xml
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.AccessArea.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.CaptureForm.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.DBConfig.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.EnrollmentForm.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.LoginForm.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.MainPanel.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.MenuForm.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.Resources.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.RegisterForm.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.VerificationForm.resources
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.exe.manifest
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.application
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.exe
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.xml
+E:\_WORK\BIOMETRICS SYSTEM\DTR\obj\Debug\BAS.pdb

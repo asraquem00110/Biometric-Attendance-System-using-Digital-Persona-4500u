@@ -1,0 +1,27 @@
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.vbprojResolveAssemblyReference.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.CaptureForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.MainForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.Resources.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.vbproj.GenerateResource.Cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.exe.config
+D:\DTR\bin\Debug\EnrollmentSample VB.exe.config
+D:\DTR\obj\Debug\EnrollmentSample VB.exe
+D:\DTR\obj\Debug\EnrollmentSample VB.xml
+D:\DTR\obj\Debug\EnrollmentSample VB.pdb
+D:\DTR\bin\Debug\EnrollmentSample VB.exe
+D:\DTR\bin\Debug\EnrollmentSample VB.pdb
+D:\DTR\bin\Debug\EnrollmentSample VB.xml
+D:\DTR\obj\Debug\EnrollmentSample VB.vbprojResolveAssemblyReference.cache
+D:\DTR\obj\Debug\Enrollment.CaptureForm.resources
+D:\DTR\obj\Debug\Enrollment.LoginForm.resources
+D:\DTR\obj\Debug\Enrollment.Resources.resources
+D:\DTR\obj\Debug\EnrollmentSample VB.vbproj.GenerateResource.Cache
+D:\DTR\obj\Debug\Enrollment.MenuForm.resources
+D:\DTR\obj\Debug\Enrollment.MainPanel.resources
+D:\DTR\obj\Debug\Enrollment.RegisterForm.resources
